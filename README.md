@@ -27,5 +27,5 @@ I enjoy appreciating the different solutions to problems, finding it pleasing to
 
 ## How to contact me?
 
-> Email: rpatricioesteban@gmail.com
-> Linkedin: https://www.linkedin.com/in/pato-e-rodriguez/
+* Email: rpatricioesteban@gmail.com
+* Linkedin: https://www.linkedin.com/in/pato-e-rodriguez/
