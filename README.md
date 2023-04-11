@@ -3,7 +3,7 @@
 ### Who am I?
 I'm a fullStack programmer focused on front-end development.
 
-I have always loved programming, since I was a child I loved to play with computers and understand how their applications work. I played programming and practicing such a profession, gradually turned the game into a dream and a goal to fulfill. I learned the basics of programming in the Java language, then continued with a more flexible language such as JavaScript, in which I currently develop, programming has helped me grow as a person and is a motivation for me to continue to making it.
+I have always loved programming, since I was a child I loved to play with computers and understand how their applications work. Played at being a programmer, gradually turned the game into a dream and a goal to fulfill. I learned the basics of programming in the Java language, then continued with a more flexible language such as JavaScript, in which I currently develop, programming has helped me grow as a person and is a motivation for me to continue to making it.
 
 ### What do I do?
 
