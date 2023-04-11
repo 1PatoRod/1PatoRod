@@ -17,13 +17,13 @@ I enjoy appreciating the different solutions to problems, finding it pleasing to
 
 ### What technologies do I use?
 
-> JavaScript 
-> React 
-> Redux 
-> Node.js 
-> Sequelize 
-> Express 
-> PostgreSQL
+*> JavaScript 
+*> React 
+*> Redux 
+*> Node.js 
+*> Sequelize 
+*> Express 
+*> PostgreSQL
 
 ## How to contact me?
 
