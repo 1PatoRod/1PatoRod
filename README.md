@@ -1,42 +1,16 @@
-# Hi! my name is Patricio Rodriguez
+# Hi, I'm Patricio Rodriguez
+## Full Stack Developer | Team Lead · Córdoba, Argentina
 
-### Who am I?
-I'm a fullStack programmer focused on front-end development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pato-e-rodriguez) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpatricioesteban@gmail.com)
 
-I have always loved programming, since I was a child I loved to play with computers and understand how their applications work. Played at being a programmer, gradually turned the game into a dream and a goal to fulfill. I learned the basics of programming in the Java language, then continued with a more flexible language such as JavaScript, in which I currently develop, programming has helped me grow as a person and is a motivation for me to continue to making it.
+Full Stack Developer with 3+ years building and leading web and mobile platforms used by thousands of people every day. Worked as Team Lead and Lead Developer on systems for the City of Córdoba government, owning architecture, microservices, and end-to-end delivery.
 
-### What do I do?
+Core stack: Python, FastAPI, React, React Native, TypeScript, Node.js/Express, PostgreSQL, Docker. I design microservices architectures, lead small teams, and ship full-stack products end to end. Open to 100% remote roles and relocation. Reach me at rpatricioesteban@gmail.com
 
-I carry out projects that allow me to advance in my training as a programmer, I look for solutions to the problems raised or that arise during development, correcting errors and improving the operation of the application, willing to learn about the technologies needed to continue with the project.
+### Tech Stack
 
-### Who should I contact?
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-My goal is to grow and make my mark in the world of programming.
+### Featured
 
-I enjoy appreciating the different solutions to problems, finding it pleasing to learn some new way that I didn't know about, broadening my perspective on things even with problems I thought were already solved.
-
-### What technologies do I use?
-
-* JavaScript 
-* React 
-* Redux 
-* Node.js 
-* Sequelize 
-* Express 
-* PostgreSQL
-
-### About my projects?
-
-You will be able to find several projects in my profile:
-
-* PI-VideoGames: is my first complete individual project, where I was able to expose my skills again, allowing me to differentiate how much I had improved since the beginning. I used technologies such as: JavaScript | React | Redux | Node.js | Sequelize | Express | PostgreSQL.
-* Proyecto-Final-Henry: is a project done in collaboration with colleagues. Development of a clothing e-commerce: https://proyecto-final-henry-nu.vercel.app/
-Main tasks: development of multiple components and views, support to colleagues in their front-end and back-end troubleshooting, component and view styling, product view and pagination, payment gateway, localStorage, combined filters, logical deletion (disable a product or block a user), shopping cart with and without authentication, admin panel, info charts, product tables, path protection and bug fixing.
-* PrepCurse: is the repository with which I started my career at henry, learning the first things about JavaScript.
-* Integracion-Incompleto: was my first project in henry, where I tested my fullStack skills at first, in that first instance this repository helped me to know my real level of programming beyond the theoretical knowledge and see what things I had left to improve (It did not include the use of my own database but I got the information from an API).
-* TypeScript-Basic-Level: is a brief overview of how to use TypeScript.
-
-## How to contact me?
-
-* Email: rpatricioesteban@gmail.com
-* Linkedin: https://www.linkedin.com/in/pato-e-rodriguez/
+E-commerce (PERN) — full e-commerce with cart, payments, admin panel, auth, and protected routes. [Live demo](https://proyecto-final-henry-nu.vercel.app/)
