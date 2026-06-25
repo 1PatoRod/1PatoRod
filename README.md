@@ -1,11 +1,11 @@
 # Hi, I'm Patricio Rodriguez
-## Full Stack Developer | Team Lead · Córdoba, Argentina
+## Full Stack Developer · Córdoba, Argentina
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pato-e-rodriguez) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpatricioesteban@gmail.com)
 
-Full Stack Developer with 3+ years building and leading web and mobile platforms used by thousands of people every day. Worked as Team Lead and Lead Developer on systems for the City of Córdoba government, owning architecture, microservices, and end-to-end delivery.
+Full Stack Developer with 3+ years building web and mobile platforms used by thousands of people every day. Worked on systems for the City of Córdoba government, owning architecture, microservices, and end-to-end delivery.
 
-Core stack: Python, FastAPI, React, React Native, TypeScript, Node.js/Express, PostgreSQL, Docker. I design microservices architectures, lead small teams, and ship full-stack products end to end. Open to 100% remote roles and relocation. Reach me at rpatricioesteban@gmail.com
+Core stack: Python, FastAPI, React, React Native, TypeScript, Node.js/Express, PostgreSQL, Docker. I design microservices architectures and ship full-stack products end to end. Open to 100% remote roles and relocation. Reach me at rpatricioesteban@gmail.com
 
 ### Tech Stack
 
